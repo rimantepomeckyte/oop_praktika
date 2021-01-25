@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71385d36-4aae-4a18-ba40-77f4e4a961c7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1nYuHrbERHyjadFn0hTjGZvh915" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Webas/kitu js projektai" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71385d36-4aae-4a18-ba40-77f4e4a961c7" name="Default Changelist" comment="" />
+      <created>1611579261516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611579261516</updated>
+      <workItem from="1611579262849" duration="8625000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="898" y="230" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611579937395">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="898" y="230" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1611579937395" />
+    <state x="906" y="171" key="FileChooserDialogImpl" timestamp="1611582802681">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="906" y="171" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1611582802681" />
+    <state x="961" y="151" key="NewPhpClassDialog" timestamp="1611585655234">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="961" y="151" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1611585655234" />
+    <state x="620" y="317" key="NewPhpFileDialog" timestamp="1611579531514">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="620" y="317" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1611579531514" />
+    <state x="329" y="192" key="run.anything.popup" timestamp="1611587271081">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="329" y="192" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1611587271081" />
+  </component>
+</project>
