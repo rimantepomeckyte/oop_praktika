@@ -41,19 +41,13 @@
         </thead>
         <tbody>
         <tr>
-            <?php foreach ($vehicle1->getVehicleData() as $value): ?>
-                <td><?= $value; ?></td>
-            <?php endforeach; ?>
+                <?php \Vehicles\Show:: ShowData($vehicle1 ->getVehicleData());?>
         </tr>
         <tr>
-            <?php foreach ($vehicle2->getVehicleData() as $value): ?>
-                <td><?= $value; ?></td>
-            <?php endforeach; ?>
+            <?php \Vehicles\Show:: ShowData($vehicle2 ->getVehicleData());?>
         </tr>
         <tr>
-            <?php foreach ($vehicle3->getVehicleData() as $value): ?>
-                <td><?= $value; ?></td>
-            <?php endforeach; ?>
+            <?php \Vehicles\Show:: ShowData($vehicle3 ->getVehicleData());?>
         </tr>
         </tbody>
     </table>
@@ -86,14 +80,10 @@
         </thead>
         <tbody>
         <tr>
-            <?php foreach ($motorcycle1->getVehicleData() as $value): ?>
-                <td><?= $value; ?></td>
-            <?php endforeach; ?>
+            <?php \Vehicles\Show:: ShowData($motorcycle1 ->getVehicleData());?>
         </tr>
         <tr>
-            <?php foreach ($motorcycle2->getVehicleData() as $value): ?>
-                <td><?= $value; ?></td>
-            <?php endforeach; ?>
+            <?php \Vehicles\Show:: ShowData($motorcycle2 ->getVehicleData());?>
         </tr>
         </tbody>
     </table>
@@ -121,9 +111,7 @@
         </thead>
         <tbody>
         <tr>
-            <?php foreach ($bicycle1->getVehicleData() as $value): ?>
-                <td><?= $value; ?></td>
-            <?php endforeach; ?>
+            <?php \Vehicles\Show:: ShowData($bicycle1 ->getVehicleData());?>
         </tr>
         </tbody>
     </table>

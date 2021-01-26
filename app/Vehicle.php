@@ -19,7 +19,7 @@ class Vehicle
         $this->model = $model;
     }
 
-    public function getVehicleData()
+    public function  getVehicleData()
     {
         return $vehicleData = [
             $this->make,

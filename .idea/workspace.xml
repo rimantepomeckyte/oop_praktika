@@ -1,14 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="71385d36-4aae-4a18-ba40-77f4e4a961c7" name="Default Changelist" comment="" />
+    <list default="true" id="71385d36-4aae-4a18-ba40-77f4e4a961c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/Show.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/oop_praktika.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/oop_praktika.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Vehicle.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Vehicle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/index.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/index.view.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
   </component>
   <component name="ProjectId" id="1nYuHrbERHyjadFn0hTjGZvh915" />
   <component name="ProjectViewState">
@@ -18,7 +51,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Webas/kitu js projektai" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Webas/Vanilla Javascript-beginning/todolist" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -30,26 +63,39 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611579261516</updated>
-      <workItem from="1611579262849" duration="9013000" />
+      <workItem from="1611579262849" duration="11533000" />
+      <workItem from="1611642475818" duration="3000" />
+      <workItem from="1611642740928" duration="3064000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="898" y="230" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611579937395">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="898" y="230" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1611579937395" />
-    <state x="906" y="171" key="FileChooserDialogImpl" timestamp="1611582802681">
+    <state x="906" y="171" key="FileChooserDialogImpl" timestamp="1611647172907">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="906" y="171" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1611582802681" />
-    <state x="961" y="151" key="NewPhpClassDialog" timestamp="1611585655234">
+    <state x="906" y="171" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1611647172907" />
+    <state x="961" y="151" key="NewPhpClassDialog" timestamp="1611642778417">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="961" y="151" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1611585655234" />
+    <state x="961" y="151" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1611642778417" />
     <state x="620" y="317" key="NewPhpFileDialog" timestamp="1611579531514">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
